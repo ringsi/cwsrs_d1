@@ -19,7 +19,7 @@ docker-compose up
 /route/<TOKEN>
 ```
 
-## Demonstration
+## Testing
 Use path /demo.php
 ```
 /demo.php
