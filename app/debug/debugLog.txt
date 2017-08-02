@@ -1,0 +1,73 @@
+Start 2017-08-02 07:13:39 
+Get Token 
+5162a9ff-1f4e-1772-22df-b48b204025c0 
+Start 2017-08-02 07:13:39 
+Token Result Fail 
+5162a9ff-1f4e-1772-22df-b48b204025c0 
+Start 2017-08-02 07:15:19 
+Get Token 
+74a44b31-66ad-00a6-d547-a63cde87f4e6 
+Start 2017-08-02 07:15:19 
+Calculated 74a44b31-66ad-00a6-d547-a63cde87f4e6 
+Array
+(
+    [status] => success
+    [path] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 22.372081
+                    [1] => 114.107877
+                )
+
+            [1] => Array
+                (
+                    [0] => 22.276442
+                    [1] => 114.177811
+                )
+
+            [2] => Array
+                (
+                    [0] => 22.314419
+                    [1] => 114.199510
+                )
+
+        )
+
+    [total_distance] => 28318
+    [total_time] => 2599
+)
+Start 2017-08-02 08:23:09 
+Get Token 
+30b65bf3-b531-e2a4-dc65-ae476f7a2a70 
+Start 2017-08-02 08:23:10 
+Calculated 30b65bf3-b531-e2a4-dc65-ae476f7a2a70 
+Array
+(
+    [status] => success
+    [path] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 22.372081
+                    [1] => 114.107877
+                )
+
+            [1] => Array
+                (
+                    [0] => 22.276442
+                    [1] => 114.177811
+                )
+
+            [2] => Array
+                (
+                    [0] => 22.314419
+                    [1] => 114.199510
+                )
+
+        )
+
+    [total_distance] => 28318
+    [total_time] => 2599
+)
+ 
